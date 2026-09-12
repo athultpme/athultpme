@@ -4,7 +4,7 @@
 
 ### Cybersecurity Analyst · Web & Mobile Security · Infrastructure
 
-I find security issues, explain risk clearly, and help make systems safer.
+I find security issues and help make systems safer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Athul%20T.%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athul-tp)
 [![Medium](https://img.shields.io/badge/Medium-Read%20my%20writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@athultpme)
