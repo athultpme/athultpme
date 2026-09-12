@@ -45,7 +45,7 @@ My approach is practical: understand the system, identify the risk, document cle
 ## 💼 Experience
 
 <details open>
-<summary><b>Cybersecurity Analyst — Illume Intelligence Pvt. Ltd.</b> · Dec 2022 – Jan 2024</summary>
+<summary><b>Cybersecurity Analyst — Illume Intelligence Pvt. Ltd.</b> </summary>
 
 <br>
 
@@ -59,7 +59,7 @@ My approach is practical: understand the system, identify the risk, document cle
 </details>
 
 <details>
-<summary><b>IT Executive — Nura Diagnostic Center</b> · Jan 2025 – Present</summary>
+<summary><b>IT Executive — Nura Diagnostic Center</b> </summary>
 
 <br>
 
