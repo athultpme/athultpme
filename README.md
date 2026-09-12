@@ -23,34 +23,6 @@ I am interested in defensive security, vulnerability management, security operat
 
 ---
 
-## Experience
-
-### Cybersecurity Analyst  
-**Illume Intelligence India Pvt. Ltd.**  
-*December 2022 – January 2024*
-
-- Conducted authorized vulnerability assessments for web applications and APIs.
-- Identified business-logic flaws, insecure configurations, and application-security vulnerabilities.
-- Produced technical reports, risk assessments, remediation recommendations, and executive summaries.
-- Performed static and dynamic Android application security analysis using Frida, Drozer, JADX, and MobSF.
-- Conducted security audits and provided prioritized recommendations to improve organizational security.
-- Installed and configured Ubuntu Server and GitLab in a local environment; managed user access and supported developer onboarding.
-- Conducted phishing-awareness simulations using GoPhish.
-
-### IT Executive  
-**Nura Diagnostic Center**  
-*January 2025 – Present*
-
-- Provide hardware, software, desktop, laptop, and network-connectivity troubleshooting for end users.
-- Manage Active Directory user accounts, department allocation, password resets, and related access-management tasks.
-- Coordinate with technical teams and internet service providers to resolve connectivity issues.
-- Support PACS worklists and DICOM transfer processes for medical-imaging workflows.
-- Assist with switch and patch-panel port identification, network labeling, and connectivity troubleshooting.
-- Install Windows operating systems and required software applications.
-- Support reliable day-to-day IT operations through responsive technical assistance.
-
----
-
 ## Selected Technical Work
 
 ### Web Application Security
